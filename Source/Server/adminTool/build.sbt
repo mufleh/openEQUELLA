@@ -5,7 +5,7 @@ libraryDependencies ++= Seq(
   "org.jvnet.hudson"       % "xstream"         % "1.3.1-hudson-8",
   "com.google.guava"       % "guava"           % "18.0",
   "com.github.equella.jpf" % "jpf"             % "1.0.7",
-  "com.fifesoft"           % "rsyntaxtextarea" % "1.5.2",
+  "com.fifesoft"           % "rsyntaxtextarea" % "3.1.1",
   "com.miglayout"          % "miglayout-swing" % "4.2",
   "org.springframework"    % "spring-web"      % "2.5.6",
   "org.springframework"    % "spring-aop"      % "2.5.6"
