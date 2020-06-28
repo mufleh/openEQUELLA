@@ -69,7 +69,7 @@ libraryDependencies ++= Seq(
     // Conflicts with RESTeasy jakarta.xml.bind-api
     ExclusionRule(organization = "javax.xml.bind")
   ),
-  "com.miglayout"             % "miglayout-swing"       % "4.2",
+  "com.miglayout"             % "miglayout-swing"       % "5.2",
   "com.ning"                  % "async-http-client"     % "1.9.40",
   "com.rometools"             % "rome"                  % "1.13.1",
   "io.swagger"                % "swagger-core"          % SwaggerVersion,
